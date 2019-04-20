@@ -1,0 +1,37 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+  /* apply custom rules to the body here */
+  font-family: "Roboto Slab";
+}
+
+header {
+  padding: 154px 0 100px;
+  background-color: #416b9b;
+}
+
+a {
+  color: #0f59ad;
+}
+
+/* media query when the media is wider than 992px */
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+#projects {
+  background-color: rgb(12, 5, 82);
+}
+section {
+  padding: 80px 0;
+}
